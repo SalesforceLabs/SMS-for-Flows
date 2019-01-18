@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Twilio_API_Key</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Key</shortDescription>
+        <value>API Key</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_API_Secret</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Secret</shortDescription>
+        <value>API Secret</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_API_Setup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Flow SMS - Twilio API Setup</shortDescription>
+        <value>Twilio SMS API Setup</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_Account_Id</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Account Id</shortDescription>
+        <value>Account Id</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_Cancel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_Outbound_Number</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Outbound Number</shortDescription>
+        <value>Outbound Number</value>
+    </labels>
+    <labels>
+        <fullName>Twilio_Save</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Save</shortDescription>
+        <value>Save</value>
+    </labels>
+</CustomLabels>
